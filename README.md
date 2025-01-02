@@ -99,5 +99,5 @@ New Features: Stay tuned for more functionality in upcoming updates.
 If you have any questions or suggestions, feel free to reach out:
 
 Author: Hussien Sulyman
-Email: hussiensulyman@gmail.com(mailto:hussiensulyman@gmail.com)  
+- Email: hussiensulyman@gmail.com(mailto:hussiensulyman@gmail.com)  
 - LinkedIn: [Hussien Sulyman](https://www.linkedin.com/in/hussien-sulyman/)
