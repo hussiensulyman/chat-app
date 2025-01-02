@@ -47,6 +47,14 @@ root/
 └── README.md           # Project documentation
 ```
 ## 📸 Screenshots
+![Screenshot of the Chat App](./App-Screenshots/Chat.png)
+![Screenshot of the Chat App](./App-Screenshots/images-download.png)
+![Screenshot of the Chat App](./App-Screenshots/serach-users.png)
+![Screenshot of the Chat App](./App-Screenshots/App-design.png)
+![Screenshot of the Chat App](./App-Screenshots/profile-photo.png)
+![Screenshot of the Chat App](./App-Screenshots/Edit-profile.png)
+![Screenshot of the Chat App](./App-Screenshots/Signup.png)
+![Screenshot of the Chat App](./App-Screenshots/Login.png)
 
 ## 📦 Installation
 1- Clone the repository:
